@@ -1,0 +1,1 @@
+My work and notes on Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms by Nicholas Locascio and Nikhil Buduma
